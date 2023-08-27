@@ -158,3 +158,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Hide sensitive information before paper is accepted
+module.png
+module_white.png
+SALSTM.py
+README2.md
