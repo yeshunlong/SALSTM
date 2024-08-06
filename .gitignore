@@ -56,7 +56,6 @@ cover/
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -160,7 +159,4 @@ cython_debug/
 #.idea/
 
 # Hide sensitive information before paper is accepted
-module.png
-module_white.png
-SALSTM.py
-README2.md
+*.pth
