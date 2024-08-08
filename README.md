@@ -7,7 +7,7 @@
 
 ![Our motivation](structure.png)
 
-Two motivations for the deep fusion of LSTM and SA: first, there is an intrinsic similarity in the computation process of LSTM States and the QKV matrix in SA; second, using LSTM can effectively provide enhanced representations of historical information for SA in the process of sparse coding.
+Two motivations for the deep fusion of LSTM and SA: first, there is an intrinsic similarity in the computation process of LSTM states and the QKV matrices in SA; second, using LSTM can effectively provide enhanced representations of historical information for SA in the process of sparse coding.
 
 ## Dataset
 
