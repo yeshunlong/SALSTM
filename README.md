@@ -2,6 +2,7 @@
 
 ## News
 - Paper for TIP-32282-2024 source code is available now. (Under Review) [2024.08.06]
+- Paper for TIP-32282-2024 source code is accepted now. [2024.10.13]
 
 ## Motivation in One Figure
 
