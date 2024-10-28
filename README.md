@@ -1,8 +1,10 @@
 # Sparse Coding Inspired LSTM and Self-Attention Integration for Medical Image Segmentation
 
 ## News
+
 - Paper for TIP-32282-2024 source code is available now. (Under Review) [2024.08.06]
 - Paper for TIP-32282-2024 source code is accepted now. [2024.10.13]
+- Paper for TIP-32282-2024 source code is published now ([link](https://ieeexplore.ieee.org/document/10729728)). [2024.10.28]
 
 ## Motivation in One Figure
 
@@ -24,7 +26,7 @@ For the 3D input scenario, we conduct experiments on the following datasets:
 
 ## Train and Evaluation on Sample Dataset and Baseline presented in the paper
 
-We present the code for the ACDC dataset and the MT-UNet baseline. 
+We present the code for the ACDC dataset and the MT-UNet baseline.
 
 You can run the following command to prepare the environment.
 
