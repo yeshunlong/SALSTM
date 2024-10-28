@@ -2,9 +2,9 @@
 
 ## News
 
-- Paper for TIP-32282-2024 source code is available now. (Under Review) [2024.08.06]
-- Paper for TIP-32282-2024 source code is accepted now. [2024.10.13]
-- Paper for TIP-32282-2024 source code is published now ([link](https://ieeexplore.ieee.org/document/10729728)). [2024.10.28]
+- Paper for IEEE Transactions on Image Processing source code is available. (Under Review) [2024.08.06]
+- Paper for IEEE Transactions on Image Processing is accepted. [2024.10.13]
+- Paper for IEEE Transactions on Image Processing is published:tada: ([link](https://ieeexplore.ieee.org/document/10729728)). [2024.10.28]
 
 ## Motivation in One Figure
 
